@@ -141,3 +141,16 @@ Run the application:
 ```bash
 docker run -it HSM_Media_Player
 ```
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Author
+
+Michele Di Lecce  
+michele.dilecce@hotmail.com
